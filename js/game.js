@@ -63,7 +63,7 @@ var scoreEl = document.getElementById('score');
 // Speed in pixels per second
 var playerSpeed = 200;
 var bulletSpeed = 500;
-var enemySpeed = 75;
+var enemySpeed = 200;
 
 // Update game objects
 function update(dt) {
